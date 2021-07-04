@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a Chung-Ang University(CAU) Student<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 
 <!--
 **falconlee236/falconlee236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
