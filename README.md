@@ -8,20 +8,28 @@ I'm a Chung-Ang University(CAU) Student<br>
 <ul>
   <li>중앙대학교 소프트웨어학부 19학번</li>
   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101)</li>
-</ul>
+</ul>  
+
+## 💪Skills  
+Platforms & Languages  
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></br> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
 
 <hr/>
 
 ## 🌱 I’m currently learning ...
 <ul>
-  <li>lots of Algorithm(for coding test & coding contest) : Studying</li>
-  <li>Machine Learning : Studying</li>
-  <li>CNN(Convolutional Neural Network) : Studying</li>
-  <li>RNN(Recurrent Neural Networks) & LSTM(Long Short-Term Memory models) : Studying</li>
-  <li>Kagggle!! : Soon....</li>
+  <li>lots of Algorithm(for coding test & coding contest)</li>
+  <li>Machine Learning</li>
+  <li>CNN(Convolutional Neural Network)</li>
+  <li>RNN(Recurrent Neural Networks) & LSTM(Long Short-Term Memory models)</li>
 </ul>
 
-<hr/>
+https://simpleicons.org/?q=colab
 
 
 - 
