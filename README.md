@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a Chung-Ang University(CAU) Student<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconlee236&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconlee236&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 
 
