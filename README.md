@@ -1,4 +1,5 @@
-<h1>Hi there 👋</h1> 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:30E8BF,100:FF8235&height=200&section=footer&text=Sangyun_Lee&fontColor=FFFFFF&fontSize=70)  
+<h1>Hi There!✌</h1>  
 I'm a Chung-Ang University(CAU) Student<br>
 <h4>My Github Stats</h4>
 
@@ -15,17 +16,16 @@ I'm a Chung-Ang University(CAU) Student<br>
 
 ## 💚Algorithm Level💚
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hermit236)](https://solved.ac/hermit236)  
-![My solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hermit236)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 
 ## 💪Stack💪
----Techs that i've used at least once---<br>
+<strong>Techs that i've used at least once<br></strong>
 Platforms & Languages  
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></br><br> 
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
