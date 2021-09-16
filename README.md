@@ -1,22 +1,22 @@
-<div align="center">  
-  <h1>Hi there 👋</h1>
-  I'm a Chung-Ang University(CAU) Student<br>
-  <h4>My Github Stats</h4>
+<h1>Hi there 👋</h1>
+I'm a Chung-Ang University(CAU) Student<br>
+<h4>My Github Stats</h4>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230442F5&title_bg=%23E30707&icon=&icon_color=%23270606&title=hits&edge_flat=false)](https://github.com/falconlee236)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230442F5&title_bg=%23E30707&icon=&icon_color=%23270606&title=hits&edge_flat=false)](https://github.com/falconlee236)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falconlee236&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-<h4>My Algorithm Level(with BaekJoon)</h4>
-
-![My solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hermit236)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 
 
-## My Profile 
+## 🤑My Profile🤑
 <ul>
   <li>중앙대학교 소프트웨어학부 19학번</li>
   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101)</li>
 </ul>  
+
+## 💚Algorithm Level💚
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hermit236)](https://solved.ac/hermit236)  
+![My solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hermit236)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 
 ## 💪Stack💪
 ---Techs that i've used at least once---<br>
@@ -49,7 +49,14 @@ Tools
   <li>RNN(Recurrent Neural Networks) & LSTM(Long Short-Term Memory models)</li>
 </ul>
 
-</div>
+## 📗 I’m currently Reading ...
+<ul>
+  <li><a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260546&orderClick=LEA&Kc=">알고리즘 문제 해결 전략 세트</li>
+  <li><a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968484636&orderClick=LEa&Kc=">밑바닥부터 시작하는 딥러닝</li>
+    <li><a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162241745&orderClick=JGJ">밑바닥부터 시작하는 딥러닝. 2</li>
+  <li><a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791195149292&orderClick=LIS&Kc=">코딩 더 매트릭스</li>
+</ul>
+
 https://simpleicons.org/?q=colab
 
 
