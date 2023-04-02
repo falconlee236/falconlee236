@@ -8,7 +8,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee236&layout=compact)](https://github.com/anuraghazra/github-readme-stats). 
-[![sangylee's 42 stats](https://badge42.vercel.app/api/v2/clf87nvog005808moiqxtxxjy/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 
 ## 💪Stack💪
