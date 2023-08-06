@@ -4,6 +4,8 @@
   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ now</li>
+  <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
+  <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ now</li>
 </ul>  
 
 ## 💚My Stats💚
