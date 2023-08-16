@@ -11,10 +11,10 @@
 ## 💚My Stats💚
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee236&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats).  
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/falconlee236). 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falconlee236&theme=tokyonight_duo)](https://github.com/falconlee236). 
-[![My trophy](https://github-profile-trophy.vercel.app/?username=falconlee236&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/falconlee236). 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee236&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/falconlee236) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falconlee236&theme=tokyonight_duo)](https://github.com/falconlee236) 
+[![My trophy](https://github-profile-trophy.vercel.app/?username=falconlee236&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/falconlee236) 
 [![sangylee's 42 stats](https://badge42.vercel.app/api/v2/clf87nvog005808moiqxtxxjy/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 
