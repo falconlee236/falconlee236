@@ -6,6 +6,7 @@
   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ now</li>
   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ now</li>
+  <li>42Manito Front-End Developer 2023.08.21 ~ now</li>
 </ul>  
 
 ## 💚My Stats💚
