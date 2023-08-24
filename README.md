@@ -24,7 +24,7 @@
 |Stack|Content|
 |------|-------|
 |Algorithm|[![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode)](https://skillicons.dev)|
-|Front-End|[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,materialui,electron)](https://skillicons.dev)|
+|Front-End|[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,materialui,electron,next)](https://skillicons.dev)|
 |Back-End|[![My Skills](https://skillicons.dev/icons?i=js,ts,bash,vim,linux,express,firebase,nodejs,mysql,docker)](https://skillicons.dev)|
 |Android|[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)|
 |Data Science|[![My Skills](https://skillicons.dev/icons?i=py,r,latex,md,matlab,pytorch)](https://skillicons.dev)|
