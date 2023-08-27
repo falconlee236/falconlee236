@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 ##  🌲 My github Grass 🌲
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 ![](./profile-3d-contrib/profile-season-animate.svg)
 ## 🤑 My Profile 🤑 
 <ul>
@@ -14,12 +15,11 @@
 </ul>  
 
 ## 💚 My Stats 💚
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![My trophy](https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8)](https://github.com/falconlee236) <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee236&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/falconlee236) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falconlee236&theme=tokyonight_duo)](https://github.com/falconlee236) 
-[![My trophy](https://github-profile-trophy.vercel.app/?username=falconlee236&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/falconlee236) 
 [![sangylee's 42 stats](https://badge42.vercel.app/api/v2/clf87nvog005808moiqxtxxjy/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 
