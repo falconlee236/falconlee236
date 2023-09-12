@@ -9,7 +9,6 @@
   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ now</li>
   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
-  <li>42Manito Front-End Developer 2023.08.21 ~ now</li>
   <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
   <li>GDSC 3기 Core Member 2023.09.01 ~ 2024.07</li>
 </ul>  
@@ -46,6 +45,7 @@
 <!-- https://simpleicons.org/ -->
 
 <!--
+  <li>42Manito Front-End Developer 2023.08.21 ~ now</li>
 **falconlee236/falconlee236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
