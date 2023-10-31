@@ -18,8 +18,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee236&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/falconlee236) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falconlee236&theme=tokyonight_duo)](https://github.com/falconlee236) 
-[![sangylee's 42 stats](https://badge42.vercel.app/api/v2/clf87nvog005808moiqxtxxjy/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 
 ## 💪 Stack 💪
