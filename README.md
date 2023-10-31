@@ -15,9 +15,8 @@
 
 ## 💚 My Stats 💚
 [![My trophy](https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8)](https://github.com/falconlee236) <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falconlee236&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/falconlee236) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236)](https://solved.ac/hermit236/)
 
 
 ## 💪 Stack 💪
