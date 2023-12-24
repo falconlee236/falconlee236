@@ -6,13 +6,21 @@
 <ul>
   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
+  <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
+  <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
+  <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
+</ul>
+<!--
+<ul>
+  <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
+  <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ now</li>
   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
   <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
   <li>GDSC 3기 Core Member 2023.09.01 ~ 2024.07</li>
 </ul>  
-
+!-->
 ## 💚 My Stats 💚
 [![My trophy](https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8)](https://github.com/falconlee236) <br>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/falconlee236) 
