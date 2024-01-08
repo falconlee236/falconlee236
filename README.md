@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+<a href="https://stackoverflow.com/users/12867943/notepad">
+  <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
+</a>
 <details>
   <summary>
     <h1> 🌲 My github Grass 🌲 </h1>
@@ -27,8 +30,11 @@
     <h1> 💚 My Stats 💚 </h1>
   </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
-  <img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight"> <br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
+  <a href="https://atcoder.jp/users/notepad" target="_blank">
+	  <img src="https://atcoder.junah.dev/v1/generate_badge?name=notepad" />
+  </a>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 </details>
 
