@@ -29,6 +29,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
   <img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 </details>
 
 <details>
@@ -68,15 +69,27 @@
         <th scope="row">Back-End</th>
         <td align="center">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Mobile</th>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
         </td>
       </tr>
       <tr>
         <th scope="row">Data Science</th>
         <td align="center">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
           <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
           <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
