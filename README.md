@@ -5,7 +5,7 @@
 </a>
 <details>
   <summary>
-    <h1> 🌲 My github Grass 🌲 </h1>
+    <h3> 🌲 My github Grass 🌲 </h3>
   </summary>
   <img src="./profile-3d-contrib/profile-season-animate.svg">
 </details> 
