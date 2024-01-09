@@ -12,7 +12,7 @@
 
 <details>
   <summary>
-    <h1> 🤑 My Profile 🤑 </h1>
+    <h3> 🤑 My Profile 🤑 </h3>
   </summary>
   <ul>
     <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
@@ -27,7 +27,7 @@
 
 <details>
   <summary>
-    <h1> 💚 My Stats 💚 </h1>
+    <h3> 💚 My Stats 💚 </h3>
   </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
   <img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight"> <br>
@@ -40,7 +40,7 @@
 
 <details>
   <summary>
-   <h1> 💪 Stack 💪 </h1> 
+   <h3> 💪 Stack 💪 </h3> 
   </summary>
   <strong>Techs that i've used at least once<br></strong>
   <table>
@@ -112,7 +112,7 @@
 
 <details>
   <summary>
-   <h1> 🌱 I’m currently learning ... 🌱 </h1>
+   <h3> 🌱 I’m currently learning ... 🌱 </h3>
   </summary>
   <ul>
     <li>lots of Algorithm(for coding test & coding contest)</li>
