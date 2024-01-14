@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<div align = "center">
-	<h1> 🤑 My Profile 🤑 </h1>
+<div >
+	<h1 align = "center" > 🤑 My Profile 🤑 </h1>
 	<ul>
 	   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
 	   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
@@ -103,8 +103,8 @@
     </table>
 </div>
 
-<div align = "center">
-   <h1> 🌱 I’m currently learning ... 🌱 </h1>
+<div>
+   <h1 align = "center"> 🌱 I’m currently learning ... 🌱 </h1>
   <ul>
     <li>lots of Algorithm(for coding test & coding contest)</li>
     <li>Flutter</li>
