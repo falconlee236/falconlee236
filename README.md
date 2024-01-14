@@ -25,7 +25,7 @@
 	</a>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
 	<a href="https://atcoder.jp/users/notepad" target="_blank">
-		<img src="https://atcoder.junah.dev/v1/generate_badge?name=notepad" />
+		<img src="https://atcoder.junah.dev/v1/generate_badge?name=notepad"/>
 	</a>
 	<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 </div>
@@ -104,7 +104,7 @@
 </div>
 
 <div>
-   <h1 align = "center"> 🌱 I’m currently learning ... 🌱 </h1>
+   <h3 align = "center"> 🌱 I’m currently learning ... 🌱 </h3>
   <ul>
     <li>lots of Algorithm(for coding test & coding contest)</li>
     <li>Flutter</li>
