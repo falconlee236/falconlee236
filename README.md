@@ -17,7 +17,7 @@
 </div>
 
 <div>
-	<h1 align = "center"> 💚 My Stats 💚 </h1>
+	<h3 align = "center"> 💚 My Stats 💚 </h3>
 	<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
 	<img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight">
 	<a href="https://stackoverflow.com/users/12867943/notepad">
@@ -31,7 +31,7 @@
 </div>
 
 <div align = "center">
-   <h1> 💪 Stack 💪 </h1> 
+   <h3> 💪 Stack 💪 </h3> 
   <strong>Techs that i've used at least once<br></strong>
   <table>
       <tr>
@@ -121,7 +121,7 @@
 </div>
 
 <div align = "center">
-	<h1> 🌲 My github Grass 🌲 </h1>
+	<h3> 🌲 My github Grass 🌲 </h3>
 	<img src="./profile-3d-contrib/profile-season-animate.svg">
 </div> 
 
