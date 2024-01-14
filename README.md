@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <div >
-	<h1 align = "center" > 🤑 My Profile 🤑 </h1>
+	<h3 align = "center" > 🤑 My Profile 🤑 </h3>
 	<ul>
 	   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
 	   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
