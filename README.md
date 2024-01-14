@@ -16,8 +16,8 @@
 	</ul>  
 </div>
 
-<div align = "center">
-	<h1> 💚 My Stats 💚 </h1>
+<div>
+	<h1 align = "center"> 💚 My Stats 💚 </h1>
 	<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
 	<img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight">
 	<a href="https://stackoverflow.com/users/12867943/notepad">
