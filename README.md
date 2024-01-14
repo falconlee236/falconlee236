@@ -1,47 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-<a href="https://stackoverflow.com/users/12867943/notepad">
-  <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
-</a>
-<details>
-  <summary>
-    <h3> 🌲 My github Grass 🌲 </h3>
-  </summary>
-  <img src="./profile-3d-contrib/profile-season-animate.svg">
-</details> 
 
-<details>
-  <summary>
-    <h3> 🤑 My Profile 🤑 </h3>
-  </summary>
-  <ul>
-    <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
-    <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
-    <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ now</li>
-    <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
-    <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
-    <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
-    <li>GDSC 3기 Core Member 2023.09.01 ~ 2024.07</li>
-  </ul>  
-</details>
+<div>
+	<h1> 🤑 My Profile 🤑 </h1>
+	<ul>
+	   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
+	   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
+	   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ now</li>
+	   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
+	   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
+	   <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
+	   <li>GDSC 3기 Core Member 2023.09.01 ~ now</li>
+	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 동아리원 2024.01.13 ~ now</li>
+	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 자료연구팀 팀원 2024.01.22 ~ now</li>
+	</ul>  
+</div>
 
-<details>
-  <summary>
-    <h3> 💚 My Stats 💚 </h3>
-  </summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
-  <img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight"> <br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
-  <a href="https://atcoder.jp/users/notepad" target="_blank">
-	  <img src="https://atcoder.junah.dev/v1/generate_badge?name=notepad" />
-  </a>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
-</details>
+<div>
+	<h1> 💚 My Stats 💚 </h1>
+	<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
+	<img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight">
+	<a href="https://stackoverflow.com/users/12867943/notepad">
+		<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
+	</a>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
+	<a href="https://atcoder.jp/users/notepad" target="_blank">
+		<img src="https://atcoder.junah.dev/v1/generate_badge?name=notepad" />
+	</a>
+	<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
+</div>
 
-<details>
-  <summary>
-   <h3> 💪 Stack 💪 </h3> 
-  </summary>
+<div>
+   <h1> 💪 Stack 💪 </h1> 
   <strong>Techs that i've used at least once<br></strong>
   <table>
       <tr>
@@ -89,6 +79,7 @@
         <th scope="row">Mobile</th>
         <td align="center">
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -108,12 +99,10 @@
         </td>
       </tr>
     </table>
-</details>
+</div>
 
-<details>
-  <summary>
-   <h3> 🌱 I’m currently learning ... 🌱 </h3>
-  </summary>
+<div>
+   <h1> 🌱 I’m currently learning ... 🌱 </h1>
   <ul>
     <li>lots of Algorithm(for coding test & coding contest)</li>
     <li>React</li>
@@ -122,8 +111,12 @@
     <li>Pytorch</li>
     <li>Statistical Learning</li>
   </ul>  
-</details>
+</div>
 
+<div>
+	<h1> 🌲 My github Grass 🌲 </h1>
+	<img src="./profile-3d-contrib/profile-season-animate.svg">
+</div> 
 
 ## 
 
