@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<div>
+<div align = "center">
 	<h1> 🤑 My Profile 🤑 </h1>
 	<ul>
 	   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ now</li>
@@ -10,13 +10,13 @@
 	   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
 	   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
 	   <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
-	   <li>GDSC 3기 Core Member 2023.09.01 ~ now</li>
+	   <li>GDSC CAU 3기 Core Member 2023.09.01 ~ now</li>
 	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 동아리원 2024.01.13 ~ now</li>
 	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 자료연구팀 팀원 2024.01.22 ~ now</li>
 	</ul>  
 </div>
 
-<div>
+<div align = "center">
 	<h1> 💚 My Stats 💚 </h1>
 	<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8">
 	<img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight">
@@ -30,7 +30,7 @@
 	<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 </div>
 
-<div>
+<div align = "center">
    <h1> 💪 Stack 💪 </h1> 
   <strong>Techs that i've used at least once<br></strong>
   <table>
@@ -90,6 +90,8 @@
           <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
           <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
           <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
           <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
           <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
@@ -101,19 +103,24 @@
     </table>
 </div>
 
-<div>
+<div align = "center">
    <h1> 🌱 I’m currently learning ... 🌱 </h1>
   <ul>
     <li>lots of Algorithm(for coding test & coding contest)</li>
-    <li>React</li>
-    <li>Android</li>
+    <li>Flutter</li>
+    <li>Spring</li>
+    <li>linux shell programming</li>
     <li>Computer Vision: Generative model</li>
+    <li>Natural Language Processing: Transformer</li>
+    <li>Natural Language Processing: BERT</li>
     <li>Pytorch</li>
     <li>Statistical Learning</li>
+    <li>Docker</li>
+    <li>Kubernetes</li>
   </ul>  
 </div>
 
-<div>
+<div align = "center">
 	<h1> 🌲 My github Grass 🌲 </h1>
 	<img src="./profile-3d-contrib/profile-season-animate.svg">
 </div> 
