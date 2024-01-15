@@ -16,15 +16,37 @@
 	</ul>  
 </div>
 
+<div>
+   <h3 align = "center"> 🌱 I’m currently learning ... 🌱 </h3>
+  <ul>
+    <li>lots of Algorithm(for coding test & coding contest)</li>
+    <li>Flutter</li>
+    <li>Spring</li>
+    <li>linux shell programming</li>
+    <li>Computer Vision: Generative model</li>
+    <li>Natural Language Processing: Transformer</li>
+    <li>Natural Language Processing: BERT</li>
+    <li>Pytorch</li>
+    <li>Statistical Learning</li>
+    <li>Docker</li>
+    <li>Kubernetes</li>
+  </ul>  
+</div>
+
 <div align = "center">
 	<h3> 💚 My Stats 💚 </h3>
 	<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight"/>
-	<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
-		<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
-	</a>
+	<img width="400" src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight" />  
+	<img width="425" src="https://streak-stats.demolab.com/?user=falconlee236&theme=tokyonight" />
+	<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=falconlee236&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+ 	<a href="https://github.com/falconlee236/github-stats">
+ 	<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+	<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 	<a href="https://solved.ac/profile/hermit236" target="_blank">
 		<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hermit236">
+	</a>
+	<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
+		<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
 	</a>
 	<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 </div>
@@ -102,23 +124,6 @@
     </table>
 </div>
 
-<div>
-   <h3 align = "center"> 🌱 I’m currently learning ... 🌱 </h3>
-  <ul>
-    <li>lots of Algorithm(for coding test & coding contest)</li>
-    <li>Flutter</li>
-    <li>Spring</li>
-    <li>linux shell programming</li>
-    <li>Computer Vision: Generative model</li>
-    <li>Natural Language Processing: Transformer</li>
-    <li>Natural Language Processing: BERT</li>
-    <li>Pytorch</li>
-    <li>Statistical Learning</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-  </ul>  
-</div>
-
 <div align = "center">
 	<h3> 🌲 My github Grass 🌲 </h3>
 	<img src="./profile-3d-contrib/profile-season-animate.svg">
@@ -126,32 +131,3 @@
 
 ## 
 
-<!-- https://simpleicons.org/ -->
-
-<!--
-  <li>42Manito Front-End Developer 2023.08.21 ~ now</li>
-**falconlee236/falconlee236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- 
-|Stack|Content|
-|------|-------|
-|Algorithm|[![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode)](https://skillicons.dev)|
-|Front-End|[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,bootstrap,react,materialui,electron,next)](https://skillicons.dev)|
-|Back-End|[![My Skills](https://skillicons.dev/icons?i=js,ts,bash,vim,linux,express,firebase,nodejs,mysql,docker)](https://skillicons.dev)|
-|Android|[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)|
-|Data Science|[![My Skills](https://skillicons.dev/icons?i=py,r,latex,md,matlab,pytorch)](https://skillicons.dev)|
--->
