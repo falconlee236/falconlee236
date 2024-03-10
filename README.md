@@ -108,7 +108,7 @@
 
 <div align = "center">
 	<details>
-		<summary><h3> 💚 My Stats 💚 </h3></summary>
+		<summary> 💚 My Stats 💚 </summary>
 		<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8"/>
 		<img width="400" src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight" />  
 		<img width="425" src="https://streak-stats.demolab.com/?user=falconlee236&theme=tokyonight" />
@@ -127,7 +127,7 @@
 
 <div align = "center">
 	<details>
-		<summary><h3> 🌲 My github Grass 🌲 </h3></summary>
+		<summary>🌲 My github Grass 🌲</summary>
 		<img src="./profile-3d-contrib/profile-season-animate.svg">
 	</details>
 </div> 
