@@ -45,7 +45,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories, achievements, stackoverflow, leetcode
           plugin_lines: yes
 
