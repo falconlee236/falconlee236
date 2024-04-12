@@ -71,8 +71,8 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x3</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x2</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x2</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x2</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Union Find <span class="count">x1</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x1</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
