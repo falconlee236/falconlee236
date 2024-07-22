@@ -27,15 +27,10 @@
 <div>
    <h3 align = "center"> 🌱 I’m currently learning ... 🌱 </h3>
   <ul>
-    <li>lots of Algorithm(for coding test & coding contest)</li>
-    <li>Flutter</li>
-    <li>Spring</li>
-    <li>linux shell programming</li>
+    <li>lots of Algorithm(for coding test & coding contest)</li> 
+    <li>socket programming</li>
     <li>Computer Vision: Generative model</li>
-    <li>Natural Language Processing: Transformer</li>
-    <li>Natural Language Processing: BERT</li>
     <li>Pytorch</li>
-    <li>Statistical Learning</li>
     <li>Docker</li>
     <li>Kubernetes</li>
   </ul>  
