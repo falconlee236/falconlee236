@@ -9,6 +9,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
+<div>
+	<h3 align='center'> Caution </h3>
+	Please Do not cancel following After That I Accept your following request </br>
+	I always check follower & following list. </br>
+	If List's follower and following pair doesn't match, I would remove your follow request immediately.
+</div>
+
 <div >
 	<h3 align = "center" > 🤑 My Profile 🤑 </h3>
 	<ul>
