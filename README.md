@@ -9,13 +9,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<div>
-	<h3 align='center'> Caution </h3>
-	Please Do not cancel following After That I Accept your following request </br>
-	I always check follower & following list. </br>
-	If List's follower and following pair doesn't match, I would remove your follow request immediately.
-</div>
-
 <div >
 	<h3 align = "center" > 🤑 My Profile 🤑 </h3>
 	<ul>
@@ -36,12 +29,16 @@
 <div>
    <h3 align = "center"> 🌱 I’m currently learning ... 🌱 </h3>
   <ul>
-    <li>lots of Algorithm(for coding test & coding contest)</li> 
-    <li>socket programming</li>
-    <li>Computer Vision: Generative model</li>
-    <li>Pytorch</li>
+    <li>Deep Reinforce Learning (DRL)</li>
+    <li>Pytorch & Pytorch Lighting</li>
+    <li>Next.js</li>
+    <li>Spring boot</li>
     <li>Docker</li>
     <li>Kubernetes</li>
+    <li>Hadoop ecosystem</li>
+    <li>Airflow</li>
+    <li>AWS ecosystem</li>
+    <li>Linux OS (Ubuntu, Debian, Arch, Alpine)</li>
   </ul>  
 </div>
 
@@ -82,10 +79,12 @@
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
           <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Alpine Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -111,12 +110,22 @@
         </td>
       </tr>
       <tr>
+        <th scope="row">Cloud</th>
+        <td align="center">
+	  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
         <th scope="row">Data Science</th>
         <td align="center">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
           <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
           <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
           <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
