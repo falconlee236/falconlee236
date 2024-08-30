@@ -23,6 +23,7 @@
 	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 2024.01.13 ~ now</li>
 	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 자료연구팀 2024.01.22 ~ now</li>
 	   <li>PyTorch Korea User Group Member 2024.08.17 ~ now</li>
+	   <li>Cloud Club 6th 2024.09.07 ~ now</li>
 	</ul>  
 </div>
 
@@ -51,12 +52,10 @@
         <th scope="col">Stack</th>
       </tr>
       <tr>
-        <th scope="row">Algorithm</th>
+        <th scope="row">system</th>
         <td align="center">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/>
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/>
         </td>
       </tr>
       <tr>
