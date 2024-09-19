@@ -14,7 +14,7 @@
 	<ul>
 	   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ 2025.02</li>
 	   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
-<!-- 	   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ 2024.08.26</li>
+	   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ 2024.08.26</li>
 	   <li>42Seoul Member 2024.08.27 ~ now</li>
 	   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
 	   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
@@ -24,7 +24,7 @@
 	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 자료연구팀 2024.01.22 ~ now</li>
 	   <li>PyTorch Korea User Group Member 2024.08.17 ~ now</li>
 	   <li>Cloud Club 6th 2024.09.07 ~ now</li>
-	   <li>GDSC CAU 4기 DevRel 2024.09.11 ~ now</li> -->
+	   <li>GDSC CAU 4기 DevRel 2024.09.11 ~ now</li>
 	</ul>  
 </div>
 
