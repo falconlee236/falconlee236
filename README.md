@@ -86,6 +86,7 @@
           <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Alpine Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/>
         </td>
       </tr>
       <tr>
