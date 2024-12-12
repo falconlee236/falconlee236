@@ -31,15 +31,18 @@
 <div>
    <h3> 🌱 I’m currently learning ... 🌱 </h3>
   <ul>
-    <li>Deep Reinforce Learning (DRL)</li>
+    <li>Retrieval augmented generation (RAG)</li>
+    <li>Large Language Model (LLM)</li>
+    <li>Generative AI</li>
     <li>Pytorch & Pytorch Lighting</li>
     <li>Next.js</li>
     <li>Spring boot</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-    <li>Hadoop ecosystem</li>
-    <li>Airflow</li>
+    <li>Terraform</li>
+    <li>Kubeflow</li>
+    <li>TensorRT</li>
     <li>AWS ecosystem</li>
+    <li>Google cloud ecosystem</li>
+    <li>Azure ecosystem</li>
     <li>Linux OS (Ubuntu, Debian, Arch, Alpine)</li>
   </ul>  
 </div>
@@ -121,22 +124,27 @@
         </td>
       </tr>
       <tr>
-        <th scope="row">Data Science</th>
+        <th scope="row">Machine Learning</th>
         <td align="center">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
           <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
           <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
           <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
           <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
           <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/>
           <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">Deep Learning</th>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/>
         </td>
       </tr>
     </table>
