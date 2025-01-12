@@ -154,15 +154,14 @@
 		<summary> 💚 My Stats 💚 </summary>
 		<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8"/>
 		<img width="400" src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight" />  
-		<img width="425" src="https://streak-stats.demolab.com/?user=falconlee236&theme=tokyonight" />
+		<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
+			<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
+		</a>
 		<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=falconlee236&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 	 	<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 		<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 		<a href="https://solved.ac/profile/hermit236" target="_blank">
 			<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hermit236">
-		</a>
-		<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
-			<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
 		</a>
 		<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 	</details>
