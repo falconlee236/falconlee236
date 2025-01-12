@@ -12,19 +12,20 @@
 <div >
 	<h3 > 🤑 My Activity 🤑 </h3>
 	<ul>
-	   <li>중앙대학교 소프트웨어학부 19학번 2019.03.04 ~ 2025.02</li>
-	   <li>대한민국 육군 ROKA 네트워크 21-5기 네트워크 운용 정비병(175101) 2021.03.08 ~ 2022.09.07</li>
-	   <li>42Seoul 9기 1차 Cadet 2023.03.13 ~ 2024.08.26</li>
-	   <li>42Seoul Member 2024.08.27 ~ now</li>
-	   <li>2023 여름방학 PRE Program in Computer Vision Machine Learning Lab 2023.06.30 ~ 2023.08.25</li>
-	   <li>2023 OSSCA 오픈소스 컨트리뷰션 아카데미 파이토치 및 파이토치라이트닝 문서 한글화 리드멘티 2023.07.08 ~ 2023.10.07</li>
-	   <li>Google for Devleopers Machine Learning Bootcamp 2023 (4기) 2023.09.01 ~ 2023.11.24</li>
-	   <li>GDSC CAU 3기 Core Member, Flutter team lead 2023.09.01 ~ 2024.06.30</li>
-	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 2024.01.13 ~ now</li>
-	   <li>빅데이터 연합 동아리 BOAZ 22기 분석 부문 자료연구팀 2024.01.22 ~ now</li>
-	   <li>PyTorch Korea User Group Member 2024.08.17 ~ now</li>
-	   <li>Cloud Club 6th 2024.09.07 ~ now</li>
-	   <li>GDSC CAU 4기 DevRel 2024.09.11 ~ now</li>
+		<li>School of Software, Chung-Ang University, Class of 2019 (Mar 4, 2019 ~ Feb 2025)</li>
+		<li>Republic of Korea Army (ROKA), Network Operation & Maintenance Specialist (175101), Network 21-5th Class (Mar 8, 2021 ~ Sep 7, 2022)</li>
+		<li>42Seoul 9th Cadet, Phase 1 (Mar 13, 2023 ~ Aug 26, 2024)</li>
+		<li>42Seoul Member (Aug 27, 2024 ~ Present)</li>
+		<li>2023 Summer PRE Program in Computer Vision Machine Learning Lab (Jun 30, 2023 ~ Aug 25, 2023)</li>
+		<li>2023 OSSCA Open Source Contribution Academy - Lead Mentee for Korean Translation of PyTorch and PyTorch Lightning Documentation (Jul 8, 2023 ~ Oct 7, 2023)</li>
+		<li>Google for Developers Machine Learning Bootcamp 2023 (4th Cohort) (Sep 1, 2023 ~ Nov 24, 2023)</li>
+		<li>GDSC CAU 3rd Core Member, Flutter Team Lead (Sep 1, 2023 ~ Jun 30, 2024)</li>
+		<li>BOAZ 22nd Big Data Club, Analysis Division (Jan 13, 2024 ~ Present)</li>
+		<li>BOAZ 22nd Big Data Club, Analysis Division, Data Research Team (Jan 22, 2024 ~ Present)</li>
+		<li>PyTorch Korea User Group Member (Aug 17, 2024 ~ Present)</li>
+		<li>Cloud Club 6th (Sep 7, 2024 ~ Jan 4, 2025)</li>
+		<li>GDSC CAU 4th DevRel (Sep 11, 2024 ~ Present)</li>
+		<li>Cloud Club 7th Operations Team (Jan 4, 2025 ~ Present)</li>
 	</ul>  
 </div>
 
@@ -132,9 +133,6 @@
           <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
           <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
           <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -144,7 +142,7 @@
           <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
           <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
         </td>
       </tr>
     </table>
