@@ -155,7 +155,7 @@
 		<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8"/>
 		<img width="400" src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight" />  
 		<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
-			<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
+			<img width="400" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
 		</a>
 		<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=falconlee236&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 	 	<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
