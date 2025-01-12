@@ -161,8 +161,9 @@
 	 	<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 		<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 		<a href="https://solved.ac/profile/hermit236" target="_blank">
-			<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hermit236">
+			<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
 		</a>
+		<img width="400" src="https://leetcard.jacoblin.cool/falconlee236?theme=unicorn" />
 		<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
 	</details>
 </div>
