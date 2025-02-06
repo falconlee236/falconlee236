@@ -12,7 +12,7 @@
 <div >
 	<h3 > 🤑 My Activity 🤑 </h3>
 	<ul>
-		<li>School of Software, Chung-Ang University, Class of 2019 (Mar 4, 2019 ~ Feb 2025)</li>
+		<li>School of Software, Chung-Ang University, Class of 2019 (Mar 4, 2019 ~ Feb 20, 2025)</li>
 		<li>Republic of Korea Army (ROKA), Network Operation & Maintenance Specialist (175101), Network 21-5th Class (Mar 8, 2021 ~ Sep 7, 2022)</li>
 		<li>42Seoul 9th Cadet, Phase 1 (Mar 13, 2023 ~ Aug 26, 2024)</li>
 		<li>42Seoul Member (Aug 27, 2024 ~ Present)</li>
@@ -20,8 +20,8 @@
 		<li>2023 OSSCA Open Source Contribution Academy - Lead Mentee for Korean Translation of PyTorch and PyTorch Lightning Documentation (Jul 8, 2023 ~ Oct 7, 2023)</li>
 		<li>Google for Developers Machine Learning Bootcamp 2023 (4th Cohort) (Sep 1, 2023 ~ Nov 24, 2023)</li>
 		<li>GDSC CAU 3rd Core Member, Flutter Team Lead (Sep 1, 2023 ~ Jun 30, 2024)</li>
-		<li>BOAZ 22nd Big Data Club, Analysis Division (Jan 13, 2024 ~ Present)</li>
-		<li>BOAZ 22nd Big Data Club, Analysis Division, Data Research Team (Jan 22, 2024 ~ Present)</li>
+		<li>BOAZ 22nd Big Data Club, Analysis Division (Jan 13, 2024 ~ Jan 25, 2025)</li>
+		<li>BOAZ 22nd Big Data Club, Analysis Division, Data Research Team (Jan 22, 2024 ~ Jan 25, 2025)</li>
 		<li>PyTorch Korea User Group Member (Aug 17, 2024 ~ Present)</li>
 		<li>Cloud Club 6th (Sep 7, 2024 ~ Jan 4, 2025)</li>
 		<li>GDSC CAU 4th DevRel (Sep 11, 2024 ~ Present)</li>
