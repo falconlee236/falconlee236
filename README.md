@@ -12,7 +12,7 @@
 <div >
 	<h3 > 🤑 My Activity 🤑 </h3>
 	<ul>
-		<li>School of Software, Chung-Ang University, Class of 2019 (Mar 4, 2019 ~ Feb 20, 2025)</li>
+		<li>College of Software, Chung-Ang University, Class of 2019 (Mar 4, 2019 ~ Feb 20, 2025)</li>
 		<li>Republic of Korea Army (ROKA), Network Operation & Maintenance Specialist (175101), Network 21-5th Class (Mar 8, 2021 ~ Sep 7, 2022)</li>
 		<li>42Seoul 9th Cadet, Phase 1 (Mar 13, 2023 ~ Aug 26, 2024)</li>
 		<li>42Seoul Member (Aug 27, 2024 ~ Present)</li>
