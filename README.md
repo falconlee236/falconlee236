@@ -9,25 +9,26 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-<div >
-	<h3 > 🤑 My Activity 🤑 </h3>
-	<ul>
-		<li>College of Software, Chung-Ang University, Class of 2019 (Mar 4, 2019 ~ Feb 20, 2025)</li>
-		<li>Republic of Korea Army (ROKA), Network Operation & Maintenance Specialist (175101), Network 21-5th Class (Mar 8, 2021 ~ Sep 7, 2022)</li>
-		<li>42Seoul 9th Cadet, Phase 1 (Mar 13, 2023 ~ Aug 26, 2024)</li>
-		<li>42Seoul Member (Aug 27, 2024 ~ Present)</li>
-		<li>2023 Summer PRE Program in Computer Vision Machine Learning Lab (Jun 30, 2023 ~ Aug 25, 2023)</li>
-		<li>2023 OSSCA Open Source Contribution Academy - Lead Mentee for Korean Translation of PyTorch and PyTorch Lightning Documentation (Jul 8, 2023 ~ Oct 7, 2023)</li>
-		<li>Google for Developers Machine Learning Bootcamp 2023 (4th Cohort) (Sep 1, 2023 ~ Nov 24, 2023)</li>
-		<li>GDSC CAU 3rd Core Member, Flutter Team Lead (Sep 1, 2023 ~ Jun 30, 2024)</li>
-		<li>BOAZ 22nd Big Data Club, Analysis Division (Jan 13, 2024 ~ Jan 25, 2025)</li>
-		<li>BOAZ 22nd Big Data Club, Analysis Division, Data Research Team (Jan 22, 2024 ~ Jan 25, 2025)</li>
-		<li>PyTorch Korea User Group Member (Aug 17, 2024 ~ Present)</li>
-		<li>Cloud Club 6th (Sep 7, 2024 ~ Jan 4, 2025)</li>
-		<li>GDSC CAU 4th DevRel (Sep 11, 2024 ~ Present)</li>
-		<li>Cloud Club 7th Operations Team (Jan 4, 2025 ~ Present)</li>
-	</ul>  
-</div>
+<h3 > 🤑 My Activity 🤑 </h3>
+
+| Activity | Position | Period |
+|----------|----------|----------|
+| College of Software, Chung-Ang University | Student | Mar 4, 2019 ~ Feb 20, 2025 |
+| Republic of Korea Army (ROKA) | Network Operation & Maintenance Specialist (175101) | Mar 8, 2021 ~ Sep 7, 2022 |
+| 42Seoul 9th Cadet | Phase 1 Cadet | Mar 13, 2023 ~ Aug 26, 2024 |
+| 42Seoul | Member | Aug 27, 2024 ~ Present |
+| Computer Vision Machine Learning Lab | Summer PRE Program Researcher | Jun 30, 2023 ~ Aug 25, 2023 |
+| OSSCA Open Source Contribution Academy | Lead Mentee (Korean Translation of PyTorch & PyTorch Lightning Docs) | Jul 8, 2023 ~ Oct 7, 2023 |
+| Google for Developers Machine Learning Bootcamp 2023 | 4th Cohort | Sep 1, 2023 ~ Nov 24, 2023 |
+| GDSC CAU 3rd Core Member | Flutter Team Lead | Sep 1, 2023 ~ Jun 30, 2024 |
+| BOAZ 22nd Big Data Club | Analysis Division | Jan 13, 2024 ~ Jan 25, 2025 |
+| BOAZ 22nd Big Data Club | Data Research Team | Jan 22, 2024 ~ Jan 25, 2025 |
+| PyTorch Korea User Group | Member | Aug 17, 2024 ~ Present |
+| Cloud Club 6th | Member | Sep 7, 2024 ~ Jan 4, 2025 |
+| GDSC CAU 4th | DevRel | Sep 11, 2024 ~ Present |
+| Cloud Club 7th | Operations Team | Jan 4, 2025 ~ Present |
+| MINDS AND COMPANY | ML Engineer Intern | Mar 4, 2025 ~ Jun 3, 2025 |
+
 
 <div>
    <h3> 🌱 I’m currently learning ... 🌱 </h3>
@@ -121,6 +122,7 @@
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
         </td>
       </tr>
