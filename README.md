@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffalconlee236&count_bg=%230A32E7&title_bg=%23EB0A34&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
 <h3 > 🤑 My Activity 🤑 </h3>
 
 | Activity | Position | Period |
