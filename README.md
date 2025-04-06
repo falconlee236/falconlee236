@@ -22,6 +22,15 @@
 | MINDS AND COMPANY | ML Engineer Intern | Mar 4, 2025 ~ Jun 3, 2025 |
 
 
+<h3> 💥 My Contributions 💥</h3>
+
+| Repository | PR Title | Description | Status | Link |
+|------------|----------|-------------|--------|------|
+| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) | 📄 Fix incorrect documentation for `SystemPrompt` customization | Fixed misleading example in the docs for stable version | `Open` | [#1299](https://github.com/browser-use/browser-use/pull/1299) |
+| [`vllm/vllm-project`](https://github.com/your-org/vllm-project) | 📘 Add complete guide for vLLM Production Stack deployment on GKE with Terraform | Adds full GKE + Terraform guide for deploying vLLM with GPU support and autoscaling infra | `Merged` | [#172](https://github.com/your-org/vllm-project/pull/172) |
+| [`huggingface/transformers`](https://github.com/huggingface/transformers) | 🛠️ Fix warning message for PEFT models in text-generation pipeline | Properly handles PeftModel types to avoid false "not supported" warning in text-gen | `Open` | [#36887](https://github.com/huggingface/transformers/pull/36887) |
+
+
 <div>
    <h3> 🌱 I’m currently learning ... 🌱 </h3>
   <ul>
