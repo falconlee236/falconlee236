@@ -28,7 +28,7 @@
 |------------|----------|-------------|--------|------|
 | [`browser-use/browser-use`](https://github.com/browser-use/browser-use) | 📄 Fix incorrect documentation for `SystemPrompt` customization | Fixed misleading example in the docs for stable version | `Open` | [#1299](https://github.com/browser-use/browser-use/pull/1299) |
 | [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 📘 Add complete guide for vLLM Production Stack deployment on GKE with Terraform | Adds full GKE + Terraform guide for deploying vLLM with GPU support and autoscaling infra | `Merged` | [#250](https://github.com/vllm-project/production-stack/pull/250) |
-| [`huggingface/transformers`](https://github.com/huggingface/transformers) | 🛠️ Fix warning message for PEFT models in text-generation pipeline | Properly handles PeftModel types to avoid false "not supported" warning in text-gen | `Open` | [#36887](https://github.com/huggingface/transformers/pull/36887) |
+| [`huggingface/transformers`](https://github.com/huggingface/transformers) | 🛠️ Fix warning message for PEFT models in text-generation pipeline | Properly handles PeftModel types to avoid false "not supported" warning in text-gen | `Merged` | [#36887](https://github.com/huggingface/transformers/pull/36887) |
 
 
 <div>
