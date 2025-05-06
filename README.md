@@ -29,6 +29,7 @@
 | [`browser-use/browser-use`](https://github.com/browser-use/browser-use) | 📄 Fix incorrect documentation for `SystemPrompt` customization | Fixed misleading example in the docs for stable version | `Merged` | [#1299](https://github.com/browser-use/browser-use/pull/1299) |
 | [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 📘 Add complete guide for vLLM Production Stack deployment on GKE with Terraform | Adds full GKE + Terraform guide for deploying vLLM with GPU support and autoscaling infra | `Merged` | [#250](https://github.com/vllm-project/production-stack/pull/250) |
 | [`huggingface/transformers`](https://github.com/huggingface/transformers) | 🛠️ Fix warning message for PEFT models in text-generation pipeline | Properly handles PeftModel types to avoid false "not supported" warning in text-gen | `Merged` | [#36887](https://github.com/huggingface/transformers/pull/36887) |
+| [`bytedance/UI-TARS-desktop`](https://github.com/bytedance/UI-TARS-desktop) | 🐞 Fix index 0 Agent handling in browser tools | Allow Agent to getting DOM element index 0 in browser-click by fixing falsy check | `Merged` | [#567](https://github.com/bytedance/UI-TARS-desktop/pull/567) |
 
 
 <div>
