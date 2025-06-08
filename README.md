@@ -35,19 +35,19 @@
 <div>
    <h3> 🌱 I’m currently learning ... 🌱 </h3>
   <ul>
-    <li>Retrieval augmented generation (RAG)</li>
-    <li>Large Language Model (LLM)</li>
-    <li>Generative AI</li>
+    <li>Foundation Model</li>
     <li>Pytorch & Pytorch Lighting</li>
-    <li>Next.js</li>
-    <li>Spring boot</li>
-    <li>Terraform</li>
+    <li>FMOps</li>
     <li>Kubeflow</li>
-    <li>TensorRT</li>
+    <li>Model Inference, CUDA</li>
     <li>AWS ecosystem</li>
     <li>Google cloud ecosystem</li>
     <li>Azure ecosystem</li>
     <li>Linux OS (Ubuntu, Debian, Arch, Alpine)</li>
+    <li>K8s</li>
+    <li>Cloud Native Arcitecture</li>
+    <li>Spring boot</li>
+    <li>Terraform</li>
   </ul>  
 </div>
 
@@ -101,6 +101,7 @@
         <td align="center">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -118,13 +119,15 @@
         </td>
       </tr>
       <tr>
-        <th scope="row">Cloud</th>
+        <th scope="row">Cloud Native</th>
         <td align="center">
 	  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+	  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
         </td>
       </tr>
@@ -147,6 +150,7 @@
 	  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white"/>
           <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+	  <img src="https://img.shields.io/badge/Nvidia-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
         </td>
       </tr>
     </table>
