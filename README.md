@@ -13,14 +13,18 @@
 | OSSCA Open Source Contribution Academy | Lead Mentee (Korean Translation of PyTorch & PyTorch Lightning Docs) | Jul 8, 2023 ~ Oct 7, 2023 |
 | Google for Developers Machine Learning Bootcamp 2023 | 4th Cohort | Sep 1, 2023 ~ Nov 24, 2023 |
 | GDSC CAU 3rd Core Member | Flutter Team Lead | Sep 1, 2023 ~ Jun 30, 2024 |
-| BOAZ 22nd Big Data Club | Analysis Division | Jan 13, 2024 ~ Jan 25, 2025 |
-| BOAZ 22nd Big Data Club | Data Research Team | Jan 22, 2024 ~ Jan 25, 2025 |
+| BOAZ 22nd Big Data Club | Analysis Division, Data Research Team | Jan 13, 2024 ~ Jan 25, 2025 |
 | PyTorch Korea User Group | Member | Aug 17, 2024 ~ Present |
 | Cloud Club 6th | Member | Sep 7, 2024 ~ Jan 4, 2025 |
 | GDSC CAU 4th | DevRel | Sep 11, 2024 ~ Present |
 | Cloud Club 7th | Operations Team | Jan 4, 2025 ~ Present |
-| MINDS AND COMPANY | ML Engineer Intern | Mar 4, 2025 ~ Jun 3, 2025 |
+| GenON | ML Engineer Intern | Mar 4, 2025 ~ Jun 3, 2025 |
 
+<h3 > 🎤 Speaking Engagements 🎤 </h3>
+
+| Organization | Title | Date | Location | Link |
+|--------------|-------|------|----------|------|
+| AWS Students Community Day 2025 | FMOps Career Path and Required Skills for Undergraduates | May 24, 2025 | Seoul, South Korea | [View Slides](https://docs.google.com/presentation/d/1eLnobQAyZl-jh470drRFNoJK5ObpYtVaijDNBcHsXi4/edit?usp=sharing) |
 
 <h3> 💥 My Contributions 💥</h3>
 
