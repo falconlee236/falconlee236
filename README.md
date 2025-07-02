@@ -8,7 +8,7 @@
 | College of Software, Chung-Ang University | Student | Mar 4, 2019 ~ Feb 20, 2025 |
 | Republic of Korea Army (ROKA) | Network Operation & Maintenance Specialist (175101) | Mar 8, 2021 ~ Sep 7, 2022 |
 | 42Seoul 9th Cadet | Phase 1 Cadet | Mar 13, 2023 ~ Aug 26, 2024 |
-| 42Seoul | Member | Aug 27, 2024 ~ Present |
+| 42Seoul | Member | Aug 27, 2024 ~ Apr 27, 2025 |
 | Computer Vision Machine Learning Lab | Summer PRE Program Researcher | Jun 30, 2023 ~ Aug 25, 2023 |
 | OSSCA Open Source Contribution Academy | Lead Mentee (Korean Translation of PyTorch & PyTorch Lightning Docs) | Jul 8, 2023 ~ Oct 7, 2023 |
 | Google for Developers Machine Learning Bootcamp 2023 | 4th Cohort | Sep 1, 2023 ~ Nov 24, 2023 |
@@ -16,9 +16,11 @@
 | BOAZ 22nd Big Data Club | Analysis Division, Data Research Team | Jan 13, 2024 ~ Jan 25, 2025 |
 | PyTorch Korea User Group | Member | Aug 17, 2024 ~ Present |
 | Cloud Club 6th | Member | Sep 7, 2024 ~ Jan 4, 2025 |
-| GDSC CAU 4th | DevRel | Sep 11, 2024 ~ Present |
-| Cloud Club 7th | Operations Team | Jan 4, 2025 ~ Present |
-| GenON | ML Engineer Intern | Mar 4, 2025 ~ Jun 3, 2025 |
+| GDSC CAU 4th | DevRel | Sep 11, 2024 ~ Jul 26, 2025 |
+| Cloud Club 7th | Operations Team | Jan 4, 2025 ~ Jul 5, 2025 |
+| GenON | ML Engineer, Intern | Mar 4, 2025 ~ Jun 3, 2025 |
+| CJ OliveNetworks | MLOps Engineer, Intern | Jun 12, 2025 ~ Jun 26, 2025 |
+| CJ OliveNetworks | MLOps Engineer, Full-Time | Jul 14, 2025 ~ Present|
 
 <h3 > 🎤 Speaking Engagements 🎤 </h3>
 
