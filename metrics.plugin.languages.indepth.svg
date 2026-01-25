@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 367kb of code in 336 edited files across 255 commits</small>
+                <small>estimation from 293kb of code in 202 edited files across 180 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.93373212299062" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="209.93373212299062" y="0" width="197.05067638380547" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="406.98440850679606" y="0" width="27.568404250173327" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="434.5528127569694" y="0" width="25.447187243030584" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.4478764478764" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="256.4478764478764" y="0" width="146.3899613899614" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="402.8378378378378" y="0" width="35.87837837837838" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="438.7162162162162" y="0" width="21.283783783783786" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,11 +34,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HCL
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>1.05k lines</div>
-                                <div>28.3 kB</div>
+                                <div>609 lines</div>
+                                <div>26.5 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,11 +60,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                HCL
                             </div>
                             <small>
-                                <div>609 lines</div>
-                                <div>26.5 kB</div>
+                                <div>607 lines</div>
+                                <div>15.1 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,8 +75,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>96 lines</div>
-                                <div>3.43 kB</div>
+                                <div>61 lines</div>
+                                <div>2.21 kB</div>
                             </small>
                         </div>
                     </section>
