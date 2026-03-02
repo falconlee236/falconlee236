@@ -31,6 +31,7 @@
 
 | Repository | PR Title | Description | Status | Link |
 |------------|----------|-------------|--------|------|
+| [`kubernetes-sigs/node-feature-discovery`](https://github.com/kubernetes-sigs/node-feature-discovery) | 🔧 Migrate deprecated `fakeclient.NewSimpleClientset` to `NewClientset` | Replaced deprecated fake client API, added `--with-applyconfig` flag for code generation, and removed `//nolint:staticcheck` directives | `Merged` | [#2442](https://github.com/kubernetes-sigs/node-feature-discovery/pull/2442) |
 | [`browser-use/browser-use`](https://github.com/browser-use/browser-use) | 📄 Fix incorrect documentation for `SystemPrompt` customization | Fixed misleading example in the docs for stable version | `Merged` | [#1299](https://github.com/browser-use/browser-use/pull/1299) |
 | [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 📘 Add complete guide for vLLM Production Stack deployment on GKE with Terraform | Adds full GKE + Terraform guide for deploying vLLM with GPU support and autoscaling infra | `Merged` | [#250](https://github.com/vllm-project/production-stack/pull/250) |
 | [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 🔧 Add complete guide for vLLM Production Stack deployment on MS Azure with Terraform | Adds comprehensive AKS deployment option with GPU support, monitoring stack, and complete documentation | `Merged` | [#552](https://github.com/vllm-project/production-stack/pull/552) |
