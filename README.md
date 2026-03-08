@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+falcons%F0%9F%A6%85)](https://git.io/typing-svg)
 
+<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
+			<img width="400" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
+		</a>
+
 <h3 > 🤑 My Activity 🤑 </h3>
 
 | Activity | Position | Period |
@@ -27,37 +31,39 @@
 |--------------|-------|------|----------|------|
 | AWS Students Community Day 2025 | FMOps Career Path and Required Skills for Undergraduates | May 24, 2025 | Seoul, South Korea | [View Slides](https://docs.google.com/presentation/d/1eLnobQAyZl-jh470drRFNoJK5ObpYtVaijDNBcHsXi4/edit?usp=sharing) |
 
-<h3> 💥 My Contributions - Total 7 💥</h3>
 
-| Repository | PR Title | Description | Status | Link |
-|------------|----------|-------------|--------|------|
-| [`kubernetes-sigs/kueue`](https://github.com/kubernetes-sigs/kueue) | 🧪 fix: flaky MPIJob test and generalize MustCreateWithRetry | Resolved flaky integration tests by generalizing a common retry utility to handle transient webhook errors across MPIJob and TrainJob suites. | `Merged` | [#9653](https://github.com/kubernetes-sigs/kueue/pull/9653) |
-| [`kubernetes-sigs/node-feature-discovery`](https://github.com/kubernetes-sigs/node-feature-discovery) | 🔧 Migrate deprecated `fakeclient.NewSimpleClientset` to `NewClientset` | Replaced deprecated fake client API, added `--with-applyconfig` flag for code generation, and removed `//nolint:staticcheck` directives | `Merged` | [#2442](https://github.com/kubernetes-sigs/node-feature-discovery/pull/2442) |
-| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) | 📄 Fix incorrect documentation for `SystemPrompt` customization | Fixed misleading example in the docs for stable version | `Merged` | [#1299](https://github.com/browser-use/browser-use/pull/1299) |
-| [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 📘 Add complete guide for vLLM Production Stack deployment on GKE with Terraform | Adds full GKE + Terraform guide for deploying vLLM with GPU support and autoscaling infra | `Merged` | [#250](https://github.com/vllm-project/production-stack/pull/250) |
-| [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 🔧 Add complete guide for vLLM Production Stack deployment on MS Azure with Terraform | Adds comprehensive AKS deployment option with GPU support, monitoring stack, and complete documentation | `Merged` | [#552](https://github.com/vllm-project/production-stack/pull/552) |
-| [`huggingface/transformers`](https://github.com/huggingface/transformers) | 🛠️ Fix warning message for PEFT models in text-generation pipeline | Properly handles PeftModel types to avoid false "not supported" warning in text-gen | `Merged` | [#36887](https://github.com/huggingface/transformers/pull/36887) |
-| [`bytedance/UI-TARS-desktop`](https://github.com/bytedance/UI-TARS-desktop) | 🐞 Fix index 0 Agent handling in browser tools | Allow Agent to getting DOM element index 0 in browser-click by fixing falsy check | `Merged` | [#567](https://github.com/bytedance/UI-TARS-desktop/pull/567) |
+<h3 >🏆 Open Source Contributions </h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
+<h3> 🚀 Featured Impact </h3>
 
-<div>
-   <h3> 🌱 I’m currently learning ... 🌱 </h3>
-  <ul>
-    <li>Foundation Model</li>
-    <li>Pytorch & Pytorch Lighting</li>
-    <li>FMOps</li>
-    <li>Kubeflow</li>
-    <li>Model Inference, CUDA</li>
-    <li>AWS ecosystem</li>
-    <li>Google cloud ecosystem</li>
-    <li>Azure ecosystem</li>
-    <li>Linux OS (Ubuntu, Debian, Arch, Alpine)</li>
-    <li>K8s</li>
-    <li>Cloud Native Arcitecture</li>
-    <li>Spring boot</li>
-    <li>Terraform</li>
-  </ul>  
-</div>
+* [Kubernetes/Kueue] Fix flaky MPIJob tests & Generalize retry utilities (#9653)
+  * Improved CI stability by addressing transient webhook errors and refactoring core test utilities.
+* [Hugging Face/Transformers] PEFT model warning fix in pipelines (#36887)
+  * Enhanced developer experience by correctly handling PeftModel types in text-generation.
+* [vLLM/Production-Stack] Complete IaC guides for GKE & Azure (#250, #552)
+  * Authored comprehensive Terraform-based deployment guides for GPU-accelerated LLM infra.
+
+<h3> 📂 Detailed Contribution History (Total 7)</h3>
+<details>
+<summary><b>Click to expand my full contribution list</b></summary>
+
+| Repository | PR Title | Status | Link |
+|------------|----------|-------------|------|
+| [`kubernetes-sigs/kueue`](https://github.com/kubernetes-sigs/kueue) | 🧪 fix: flaky MPIJob test and generalize MustCreateWithRetry | `Merged` | [#9653](https://github.com/kubernetes-sigs/kueue/pull/9653) |
+| [`kubernetes-sigs/node-feature-discovery`](https://github.com/kubernetes-sigs/node-feature-discovery) | 🔧 Migrate deprecated `fakeclient.NewSimpleClientset` to `NewClientset` | `Merged` | [#2442](https://github.com/kubernetes-sigs/node-feature-discovery/pull/2442) |
+| [`huggingface/transformers`](https://github.com/huggingface/transformers) | 🛠️ Fix warning message for PEFT models in text-generation pipeline | `Merged` | [#36887](https://github.com/huggingface/transformers/pull/36887) |
+| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) | 📄 Fix incorrect documentation for `SystemPrompt` customization | `Merged` | [#1299](https://github.com/browser-use/browser-use/pull/1299) |
+| [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 📘 Add complete guide for vLLM Production Stack deployment on GKE with Terraform | `Merged` | [#250](https://github.com/vllm-project/production-stack/pull/250) |
+| [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) | 🔧 Add complete guide for vLLM Production Stack deployment on MS Azure with Terraform | `Merged` | [#552](https://github.com/vllm-project/production-stack/pull/552) |
+| [`bytedance/UI-TARS-desktop`](https://github.com/bytedance/UI-TARS-desktop) | 🐞 Fix index 0 Agent handling in browser tools | `Merged` | [#567](https://github.com/bytedance/UI-TARS-desktop/pull/567) |	
+</details>
+
 
 <div>
    <h3> 💪 Stack 💪 </h3> 
@@ -169,30 +175,5 @@
     </table>
 </div>
 
-
-<div align = "center">
-	<details>
-		<summary> 💚 My Stats 💚 </summary>
-		<img src="https://github-profile-trophy.vercel.app/?username=falconlee236&theme=algolia&margin-w=10&margin-h=10&row=1&column=8"/>
-		<img width="400" src="https://github-readme-stats.vercel.app/api?username=falconlee236&count_private=true&show_icons=true&theme=tokyonight" />  
-		<a href="https://stackoverflow.com/users/12867943/notepad" target="_blank">
-			<img width="400" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12867943">
-		</a>
-		<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=falconlee236&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-	 	<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-		<img width="400" src="https://raw.githubusercontent.com/falconlee236/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-		<a href="https://solved.ac/profile/hermit236" target="_blank">
-			<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hermit236">
-		</a>
-		<img width="400" src="https://leetcard.jacoblin.cool/falconlee236?theme=unicorn" />
-		<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/90950821"/>
-	</details>
-</div>
-
-<div align = "center">
-	<details>
-		<summary>🌲 My github Grass 🌲</summary>
-		<img src="./profile-3d-contrib/profile-season-animate.svg">
-	</details>
-</div> 
+<img src="./profile-3d-contrib/profile-season-animate.svg">
 
