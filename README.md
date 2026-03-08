@@ -27,7 +27,7 @@
 |--------------|-------|------|----------|------|
 | AWS Students Community Day 2025 | FMOps Career Path and Required Skills for Undergraduates | May 24, 2025 | Seoul, South Korea | [View Slides](https://docs.google.com/presentation/d/1eLnobQAyZl-jh470drRFNoJK5ObpYtVaijDNBcHsXi4/edit?usp=sharing) |
 
-<h3> 💥 My Contributions 💥</h3>
+<h3> 💥 My Contributions - Total 7 💥</h3>
 
 | Repository | PR Title | Description | Status | Link |
 |------------|----------|-------------|--------|------|
