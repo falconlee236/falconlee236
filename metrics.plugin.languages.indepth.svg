@@ -16,23 +16,23 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 290kb of code in 255 edited files across 153 commits</small>
+                <small>estimation from 255kb of code in 248 edited files across 145 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.1148894844066" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="394.1148894844066" y="0" width="50.94129931580369" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.1148894844066" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="394.1148894844066" y="0" width="50.94129931580369" height="8" fill="#844FBA"/>
                     <rect mask="url(#languages-bar)" x="445.0561888002103" y="0" width="7.537404435227712" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.593593235438" y="0" width="7.406406764561989" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="452.593593235438" y="0" width="7.406406764561989" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Go
                             </div>
@@ -58,7 +58,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 HCL
                             </div>
@@ -70,7 +70,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Makefile
                             </div>
